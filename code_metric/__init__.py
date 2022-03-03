@@ -1,5 +1,5 @@
 from unicodedata import name
 
 
-from .metric import *
+from .code_metric import *
 name = "code_metric"
